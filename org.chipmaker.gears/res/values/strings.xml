@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GearsActivity!</string>
+    <string name="app_name">TV-16 gear calculation</string>
+    <string name="gear_title">Gears</string>
+    <string name="pitch_title">Thread pitch</string>
+    <string name="select_title">Select...</string>
+    <string name="calc_title">Calculate</string>
+    <string name="pitch">Thread pitch</string>
+    <string name="select_pitch">Select thread pitch</string>
+    <string name="cancel">Cancel</string>
+    <string name="about">About</string>
+    <string name="author">Author</string>
+    <string name="close">Close</string>
+    <string name="license">License</string>
+    <string name="no_result">No available combinations</string>
+
+</resources>

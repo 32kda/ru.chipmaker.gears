@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Привет!</string>
+    <string name="app_name">Расчёт ТВ-16</string>
+    <string name="gear_title">Шестерни</string>
+    <string name="pitch_title">Шаг резьбы</string>
+    <string name="select_title">Выбрать…</string>
+    <string name="calc_title">Считать</string>
+    <string name="pitch">Шаг резьбы</string>
+    <string name="select_pitch">Выберите шаг</string>
+    <string name="cancel">Отмена</string>
+    <string name="about">О программе</string>
+    <string name="author">Автор</string>
+    <string name="close">Закрыть</string>
+    <string name="license">Лицензия</string>
+    <string name="no_result">Решений не найдено</string>
+
+</resources>
